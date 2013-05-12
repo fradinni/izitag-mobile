@@ -1,0 +1,7 @@
+Views:
+	- Slide View for presentation
+	- Home View
+	- Login View
+	- Liste des commercants
+	- Liste des codes promos
+	- Detail commercant
